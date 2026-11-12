@@ -1,0 +1,6 @@
+{
+  "name": "SNAKE AI 2026 — The Next Evolution",
+  "description": "Videojuego arcade futurista 3D con Three.js, físicas avanzadas, rival IA autónomo con pathfinding A*, Game Master dinámico y AI Coach potenciados por Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
